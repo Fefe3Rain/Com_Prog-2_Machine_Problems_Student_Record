@@ -1,0 +1,7 @@
+Rain Sid,75,100,100
+Dan Niel,100,100,100
+Sean Dai,75,100,100
+Jose Emi,50,50,100
+Ralp Yan,100,100,100
+Arel Lag,100,20,100
+Neil Bri,75,20,100
